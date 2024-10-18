@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Motivated Electronics and Communication graduate with a passion for Data analysis.<br>Proficient in Microsoft Excel, Power BI, and SQL with hands-on experience in building interactive dashboards and visualizing data insights<br>Currently seeking opportunities to apply my skills in real-world data analysis projects.<br>Let's connect and explore the power of data together 
+<br>📊 Recent Electronics and Communication graduate with a passion for data analysis.<br>💻 Proficient in Python, Microsoft Excel, and Power BI, with experience in building interactive dashboards and visualizing data insights.<br>🔍 Currently seeking opportunities to apply my skills in real-world data analysis projects.<br>🚀 Let's connect and explore the power of data together! 
 
 
 ## 🌐 Socials:
